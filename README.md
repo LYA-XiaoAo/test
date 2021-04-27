@@ -1,2 +1,2 @@
 # test
-This is a description.
+This is test repository for LYA-XiaoAo Video.
